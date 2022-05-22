@@ -373,41 +373,6 @@
         </plugins>
     </reporting>
 
-    <description>Plugin for assisting with running Cucumber-JVM features in parallel</description>
-
-    <developers>
-        <developer>
-            <name>Tim Myerscough</name>
-            <email>tm14258+mvn-central@gmail.com</email>
-            <organizationUrl>https://github.com/temyers</organizationUrl>
-            <roles>
-                <role>creator</role>
-            </roles>
-        </developer>
-    </developers>
-
-    <inceptionYear>2015</inceptionYear>
-
-    <issueManagement>
-        <system>github</system>
-        <url>https://github.com/temyers/cucumber-jvm-parallel-plugin/issues</url>
-    </issueManagement>
-
-    <!-- <scm>
-         <connection>scm:git:https://github.com/temyers/cucumber-jvm-parallel-plugin.git</connection>
-         <developerConnection>scm:git:https://github.com/temyers/cucumber-jvm-parallel-plugin.git
-         </developerConnection>
-         <url>https://github.com/temyers/cucumber-jvm-parallel-plugin</url>
-         <tag>HEAD</tag>
-     </scm>-->
-
-    <licenses>
-        <license>
-            <name>The Apache License, Version 2.0</name>
-            <url>http://www.apache.org/licenses/LICENSE-2.0.txt</url>
-        </license>
-    </licenses>
-
     <prerequisites>
         <maven>3.0</maven>
     </prerequisites>
